@@ -375,7 +375,7 @@
 
 // ◆ 縁取りをするか
 // する場合は true, しない場合は false を指定します。
-;defaultEdge = false;  // deffont タグの edge 属性に相当
+;defaultEdge = true;  // deffont タグの edge 属性に相当
 
 // ◆ 縁取りの色
 // 縁取りの色を 0xRRGGBB 形式で指定します。
